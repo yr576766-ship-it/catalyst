@@ -183,9 +183,4 @@ Python (pandas, numpy, requests, folium) · ESP32 / Arduino C++ · HTML, CSS, va
 
 ## Team
 
-- _Your name / team name_
-- _Hackathon name and year_
-
-## License
-
-_Choose one, for example MIT._
+- Catalyst
